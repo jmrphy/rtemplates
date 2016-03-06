@@ -1,0 +1,5 @@
+name: Template for Exploratory Data Analysis
+description: >
+ Template for data analyses preceeding potential publications
+create_dir: true
+
