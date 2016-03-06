@@ -24,7 +24,7 @@ from
 
 \dontrun{
 library(rmarkdown)
-draft("MyArticle.Rmd", template = "jmrphy_explore", package = "rtemplates")
+draft("MyArticle.Rmd", template = "jmrphy_article", package = "rtemplates")
 }
 
 }
