@@ -228,7 +228,7 @@
     {\fontfamily{pzc} \fontsize{13}{15} \selectfont The File Drawer of Justin Murphy}
     \hfill
     \url{http://jmrphy.net/}\\ \nopagebreak
-    Data mining, null findings, multiple comparisons, and other naughty things
+    Mining, null findings, multiple comparisons, and other naughty things
     \hfill
     \url{}\\[.3\baselineskip] \nopagebreak
     {Volume~\@Volume, \@Seriesname~\@Issue}
@@ -255,9 +255,9 @@
   \hspace{-2em} \includegraphics[height=23mm,keepaspectratio]{jmrphy_logo} \hfill
   \parbox[b][23mm]{118mm}{\hrule height 3pt
    \center{
-   {\fontfamily{pzc} \fontsize{28}{32} \selectfont The File Drawer of Justin Murphy}
+   {\fontfamily{pzc} \fontsize{28}{32} \selectfont Justin Murphy's File Drawer}
    \vfill
-   {\it \small \@Month{} \@Year, Volume~\@Volume, \@Seriesname~\@Issue.%
+   {Data mining, null results, multiple comparisons, and other naughty things.%
             \hfill \href{http://jmrphy.net/}{http://jmrphy.net/}}}\\[0.1cm]
      \hrule height 3pt}}
 \if@review
