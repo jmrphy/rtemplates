@@ -4,7 +4,7 @@
 \def\filename{jss}
 \def\filedate{2013/04/06}
 %%
-%% Package `jss' to use with LaTeX2e for JSS publications (http://www.jstatsoft.org/)
+%% Package `jss' to use with LaTeX2e for JSS publications (http://jmrphy.net/)
 %% License: GPL-2
 %% Copyright: (C) Achim Zeileis
 %% Please report errors to Achim.Zeileis@R-project.org
@@ -61,7 +61,7 @@
   \usepackage[authoryear,round,longnamesfirst]{natbib}
 \fi
 \bibpunct{(}{)}{;}{a}{}{,}
-\bibliographystyle{jss}
+\bibliographystyle{jmrphy_explore}
 %% page layout
 \topmargin 0pt
 \textheight 46\baselineskip
@@ -144,7 +144,7 @@
 \URL{http://link/to/webpage/}
 \if@article
   \Seriesname{Issue}
-  \Hypersubject{Journal of Statistical Software}
+  \Hypersubject{The File Drawer of Justin Murphy}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -152,7 +152,7 @@
 
 \if@codesnippet
   \Seriesname{Code Snippet}
-  \Hypersubject{Journal of Statistical Software -- Code Snippets}
+  \Hypersubject{The File Drawer of Justin Murphy -- Code Snippets}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -160,7 +160,7 @@
 
 \if@bookreview
   \Seriesname{Book Review}
-  \Hypersubject{Journal of Statistical Software -- Book Reviews}
+  \Hypersubject{The File Drawer of Justin Murphy -- Book Reviews}
   \Plaintitle{\@Booktitle}
   \Shorttitle{\@Booktitle}
   \Reviewauthor{\@Bookauthor\\
@@ -173,7 +173,7 @@
 
 \if@softwarereview
   \Seriesname{Software Review}
-  \Hypersubject{Journal of Statistical Software -- Software Reviews}
+  \Hypersubject{The File Drawer of Justin Murphy -- Software Reviews}
   \Plaintitle{\@Softwaretitle}
   \Shorttitle{\@Softwaretitle}
   \Booktitle{\@Softwaretitle}
@@ -225,12 +225,12 @@
     \vfill
     \hrule \nopagebreak
     \vspace{.1\baselineskip}
-    {\fontfamily{pzc} \fontsize{13}{15} \selectfont Journal of Statistical Software}
+    {\fontfamily{pzc} \fontsize{13}{15} \selectfont The File Drawer of Justin Murphy}
     \hfill
-    \url{http://www.jstatsoft.org/}\\ \nopagebreak
-    published by the American Statistical Association
+    \url{http://jmrphy.net/}\\ \nopagebreak
+    Data mining, null findings, multiple comparisons, and other naughty things
     \hfill
-    \url{http://www.amstat.org/}\\[.3\baselineskip] \nopagebreak
+    \url{}\\[.3\baselineskip] \nopagebreak
     {Volume~\@Volume, \@Seriesname~\@Issue}
     \hfill
     \@Firstdate\\ \nopagebreak
@@ -255,10 +255,10 @@
   \hspace{-2em} \includegraphics[height=23mm,keepaspectratio]{jmrphy_logo} \hfill
   \parbox[b][23mm]{118mm}{\hrule height 3pt
    \center{
-   {\fontfamily{pzc} \fontsize{28}{32} \selectfont Journal of Statistical Software}
+   {\fontfamily{pzc} \fontsize{28}{32} \selectfont The File Drawer of Justin Murphy}
    \vfill
    {\it \small \@Month{} \@Year, Volume~\@Volume, \@Seriesname~\@Issue.%
-            \hfill \href{http://www.jstatsoft.org/}{http://www.jstatsoft.org/}}}\\[0.1cm]
+            \hfill \href{http://jmrphy.net/}{http://jmrphy.net/}}}\\[0.1cm]
      \hrule height 3pt}}
 \if@review
   \renewcommand{\maketitle}{
