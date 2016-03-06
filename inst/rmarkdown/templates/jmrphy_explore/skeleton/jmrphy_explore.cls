@@ -144,7 +144,7 @@
 \URL{http://link/to/webpage/}
 \if@article
   \Seriesname{Issue}
-  \Hypersubject{The File Drawer of Justin Murphy}
+  \Hypersubject{Journal of Statistical Software}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -225,12 +225,12 @@
     \vfill
     \hrule \nopagebreak
     \vspace{.1\baselineskip}
-    {\fontfamily{pzc} \fontsize{13}{15} \selectfont The File Drawer of Justin Murphy}
+    {\fontfamily{pzc} \fontsize{13}{15} \selectfont Journal of Statistical Software}
     \hfill
-    \url{http://jmrphy.net/}\\ \nopagebreak
-    Data mining, null findings, multiple comparisons, and other unpublishable things
+    \url{http://www.jstatsoft.org/}\\ \nopagebreak
+    published by the American Statistical Association
     \hfill
-    \url{http://jmrphy.net/}\\[.3\baselineskip] \nopagebreak
+    \url{http://www.amstat.org/}\\[.3\baselineskip] \nopagebreak
     {Volume~\@Volume, \@Seriesname~\@Issue}
     \hfill
     \@Firstdate\\ \nopagebreak
@@ -255,7 +255,7 @@
   \hspace{-2em} \includegraphics[height=23mm,keepaspectratio]{jmrphy_logo} \hfill
   \parbox[b][23mm]{118mm}{\hrule height 3pt
    \center{
-   {\fontfamily{pzc} \fontsize{28}{32} \selectfont The File Drawer of Justin Murphy}
+   {\fontfamily{pzc} \fontsize{28}{32} \selectfont Journal of Statistical Software}
    \vfill
    {\it \small \@Month{} \@Year, Volume~\@Volume, \@Seriesname~\@Issue.%
             \hfill \href{http://www.jstatsoft.org/}{http://www.jstatsoft.org/}}}\\[0.1cm]
