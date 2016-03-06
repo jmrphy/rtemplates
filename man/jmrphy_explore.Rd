@@ -4,7 +4,7 @@
 \alias{jmrphy_explore}
 \title{Journal of Statistical Software (JSS) format.}
 \usage{
-jss_article(..., keep_tex = TRUE)
+jmrphy_explore(..., keep_tex = TRUE)
 }
 \arguments{
 \item{...}{Arguments to \code{rmarkdown::pdf_document}}
