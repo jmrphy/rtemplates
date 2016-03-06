@@ -14,13 +14,13 @@
 #'
 #' \dontrun{
 #' library(rmarkdown)
-#' draft("MyArticle.Rmd", template = "jss_article", package = "rticles")
+#' draft("MyArticle.Rmd", template = "jmrphy_article", package = "rtemplates")
 #' }
 #'
 #' @export
-jss_article <- function(..., keep_tex = TRUE) {
+jmrphy_explore <- function(..., keep_tex = TRUE) {
 
-  template <- find_resource("jss_article", "template.tex")
+  template <- find_resource("jmrphy_explore", "template.tex")
 
   base <- inherit_pdf_document(..., template = template, keep_tex = keep_tex)
 
