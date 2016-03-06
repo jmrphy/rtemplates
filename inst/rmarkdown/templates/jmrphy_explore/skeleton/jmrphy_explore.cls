@@ -144,7 +144,7 @@
 \URL{http://link/to/webpage/}
 \if@article
   \Seriesname{Issue}
-  \Hypersubject{Justin Murphy's File Drawer}
+  \Hypersubject{The File Drawer of Justin Murphy}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -225,7 +225,7 @@
     \vfill
     \hrule \nopagebreak
     \vspace{.1\baselineskip}
-    {\fontfamily{pzc} \fontsize{13}{15} \selectfont Justin Murphy's File Drawer}
+    {\fontfamily{pzc} \fontsize{13}{15} \selectfont The File Drawer of Justin Murphy}
     \hfill
     \url{http://jmrphy.net/}\\ \nopagebreak
     Data mining, null findings, multiple comparisons, and other unpublishable things
@@ -255,7 +255,7 @@
   \hspace{-2em} \includegraphics[height=23mm,keepaspectratio]{jmrphy_logo} \hfill
   \parbox[b][23mm]{118mm}{\hrule height 3pt
    \center{
-   {\fontfamily{pzc} \fontsize{28}{32} \selectfont Justin Murphy's File Drawer}
+   {\fontfamily{pzc} \fontsize{28}{32} \selectfont The File Drawer of Justin Murphy}
    \vfill
    {\it \small \@Month{} \@Year, Volume~\@Volume, \@Seriesname~\@Issue.%
             \hfill \href{http://www.jstatsoft.org/}{http://www.jstatsoft.org/}}}\\[0.1cm]
