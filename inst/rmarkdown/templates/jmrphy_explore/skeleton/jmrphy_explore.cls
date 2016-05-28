@@ -144,7 +144,7 @@
 \URL{http://link/to/webpage/}
 \if@article
   \Seriesname{Issue}
-  \Hypersubject{The File Drawer of Justin Murphy}
+  \Hypersubject{Justin Murphy's File Drawer}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -152,7 +152,7 @@
 
 \if@codesnippet
   \Seriesname{Code Snippet}
-  \Hypersubject{The File Drawer of Justin Murphy -- Code Snippets}
+  \Hypersubject{Justin Murphy's File Drawer -- Code Snippets}
   \Plaintitle{\@title}
   \Shorttitle{\@title}
   \Plainkeywords{\@Keywords}
@@ -160,7 +160,7 @@
 
 \if@bookreview
   \Seriesname{Book Review}
-  \Hypersubject{The File Drawer of Justin Murphy -- Book Reviews}
+  \Hypersubject{Justin Murphy's File Drawer -- Book Reviews}
   \Plaintitle{\@Booktitle}
   \Shorttitle{\@Booktitle}
   \Reviewauthor{\@Bookauthor\\
@@ -173,7 +173,7 @@
 
 \if@softwarereview
   \Seriesname{Software Review}
-  \Hypersubject{The File Drawer of Justin Murphy -- Software Reviews}
+  \Hypersubject{Justin Murphy's File Drawer -- Software Reviews}
   \Plaintitle{\@Softwaretitle}
   \Shorttitle{\@Softwaretitle}
   \Booktitle{\@Softwaretitle}
@@ -225,7 +225,7 @@
     \vfill
     \hrule \nopagebreak
     \vspace{.1\baselineskip}
-    {\fontfamily{pzc} \fontsize{13}{15} \selectfont The File Drawer of Justin Murphy}
+    {\fontfamily{pzc} \fontsize{13}{15} \selectfont Justin Murphy's File Drawer}
     \hfill
     \url{http://jmrphy.net/}\\ \nopagebreak
     Mining, null findings, multiple comparisons, and other naughty things
