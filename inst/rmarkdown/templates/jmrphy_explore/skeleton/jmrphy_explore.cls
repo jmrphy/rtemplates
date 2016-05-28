@@ -257,7 +257,7 @@
    \center{
    {\fontfamily{pzc} \fontsize{28}{32} \selectfont Justin Murphy's File Drawer}
    \vfill
-   {Data mining, null results, multiple comparisons, and other naughty things.%
+   {Data mining, null results, multiple comparisons, and other dirty laundry.%
             \hfill \href{http://jmrphy.net/}{http://jmrphy.net/}}}\\[0.1cm]
      \hrule height 3pt}}
 \if@review

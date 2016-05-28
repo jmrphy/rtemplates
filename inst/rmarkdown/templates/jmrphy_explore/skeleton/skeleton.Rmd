@@ -10,6 +10,8 @@ author:
   - name: Second Author
     affiliation: Affiliation
 title:
+  formatted: "Nice Title: Exploratory Analyses"
+  # If you use tex in the formatted title, also supply version without
   plain:     "Unformatted Title: Exploratory Analyses"
   # For running headers, if needed
   short:     "Short Title (Exploratory)"
